@@ -1,0 +1,1 @@
+int charToInt(int);

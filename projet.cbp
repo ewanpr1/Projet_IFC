@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="iShopAssistant_project" />
+		<Option platforms="Windows;" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/projet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/projet" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="AcquisitionClient.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AcquisitionClient.h" />
+		<Unit filename="AcquisitionProduits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AcquisitionProduits.h" />
+		<Unit filename="AjoutPanier.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AjoutPanier.h" />
+		<Unit filename="ConnexionClient.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConnexionClient.h" />
+		<Unit filename="Facturation.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Facturation.h" />
+		<Unit filename="InscriptionClient.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="InscriptionClient.h" />
+		<Unit filename="RechercheCategorie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RechercheCategorie.h" />
+		<Unit filename="RechercheProduit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="RechercheProduit.h" />
+		<Unit filename="StructClient.h" />
+		<Unit filename="StructPanier.h" />
+		<Unit filename="StructProduit.h" />
+		<Unit filename="alimStock.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="alimStock.h" />
+		<Unit filename="bankManager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bankManager.h" />
+		<Unit filename="caissierMenu1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="caissierMenu1.h" />
+		<Unit filename="charToInt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="charToInt.h" />
+		<Unit filename="clientMenu0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="clientMenu0.h" />
+		<Unit filename="clientMenu1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="clientMenu1.h" />
+		<Unit filename="clientMenu2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="clientMenu2.h" />
+		<Unit filename="color.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="color.h" />
+		<Unit filename="ftoa.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ftoa.h" />
+		<Unit filename="fullScreenOnOff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fullScreenOnOff.h" />
+		<Unit filename="gestMenu1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gestMenu1.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mainMenu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mainMenu.h" />
+		<Unit filename="menuManager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menuManager.h" />
+		<Unit filename="passwordManager.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="passwordManager.h" />
+		<Unit filename="printBank.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printBank.h" />
+		<Unit filename="startupMessage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="startupMessage.h" />
+		<Unit filename="table6Editor.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="table6Editor.h" />
+		<Unit filename="valMax.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

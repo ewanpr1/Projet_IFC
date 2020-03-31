@@ -1,0 +1,4228 @@
+# depslib dependency file v1.0
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\fullscreenonoff.c
+	<windows.h>
+
+1496132386 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+
+1494771751 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\mainmenu.h
+
+1496154177 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\menumanager.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496300526 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<unistd.h>
+
+1496155094 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496155118 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496155209 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\caissiermenu1.h
+
+1496153461 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\clientmenu1.h
+
+1496155310 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\appearance_sources\fullscreenonoff.c
+	<windows.h>
+
+1496098877 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\appearance_sources\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.6\chartoint.c
+
+1496155094 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\naworms\desktop\ishopassistant_v1.2.7\menumanager.h
+
+1494770999 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\chartoint.c
+
+1496569644 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496574946 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496130606 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\fullscreenonoff.c
+	<windows.h>
+
+1496155209 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496132386 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+
+1496573141 c:\users\naworms\desktop\ishopassistant_v1.2.7\startupmessage.h
+
+1496130590 c:\users\naworms\desktop\ishopassistant_v1.2.7\fullscreenonoff.h
+
+1496132507 c:\users\naworms\desktop\ishopassistant_v1.2.7\mainmenu.h
+
+1496154177 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\naworms\desktop\ishopassistant_v1.2.7\gestmenu1.h
+
+1496153560 c:\users\naworms\desktop\ishopassistant_v1.2.7\caissiermenu1.h
+
+1496153461 c:\users\naworms\desktop\ishopassistant_v1.2.7\clientmenu1.h
+
+1496095996 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496300526 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<unistd.h>
+
+1496575726 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+
+1496574784 c:\users\naworms\desktop\ishopassistant_v1.2.7\acquisitionproduits.h
+
+1496569643 c:\users\naworms\desktop\ishopassistant_v1.2.7\clientmenu2.h
+
+1496573354 c:\users\naworms\desktop\ishopassistant_v1.2.7\structproduit.h
+
+1496575742 source:c:\users\naworms\desktop\ishopassistant_v1.2.7\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496574904 c:\users\naworms\desktop\ishopassistant_v1.2.7\rechercheproduit.h
+
+1496586239 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\naworms\desktop\ishopassistant_v1.2.8\menumanager.h
+
+1494770999 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\chartoint.c
+
+1496569644 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\naworms\desktop\ishopassistant_v1.2.8\clientmenu2.h
+
+1496586230 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\naworms\desktop\ishopassistant_v1.2.8\acquisitionproduits.h
+
+1496573354 c:\users\naworms\desktop\ishopassistant_v1.2.8\structproduit.h
+
+1496130606 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496132386 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+
+1496573141 c:\users\naworms\desktop\ishopassistant_v1.2.8\startupmessage.h
+
+1496130590 c:\users\naworms\desktop\ishopassistant_v1.2.8\fullscreenonoff.h
+
+1496132507 c:\users\naworms\desktop\ishopassistant_v1.2.8\mainmenu.h
+
+1496154177 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\naworms\desktop\ishopassistant_v1.2.8\gestmenu1.h
+
+1496153560 c:\users\naworms\desktop\ishopassistant_v1.2.8\caissiermenu1.h
+
+1496153461 c:\users\naworms\desktop\ishopassistant_v1.2.8\clientmenu1.h
+
+1496095996 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496575742 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496300526 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<unistd.h>
+
+1496584160 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496574904 c:\users\naworms\desktop\ishopassistant_v1.2.8\rechercheproduit.h
+
+1496584032 c:\users\naworms\desktop\ishopassistant_v1.2.8\recherchecategorie.h
+
+1496587579 source:c:\users\naworms\desktop\ishopassistant_v1.2.8\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496584160 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\structproduit.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\recherchecategorie.h
+
+1496586239 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\menumanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\chartoint.c
+
+1496569644 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\clientmenu2.h
+
+1496586230 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\acquisitionproduits.h
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496132386 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\mainmenu.h
+
+1496154177 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\caissiermenu1.h
+
+1496153461 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\clientmenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496575742 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496598312 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.9\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<unistd.h>
+
+1496584160 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\structproduit.h
+
+1496574904 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\rechercheproduit.h
+
+1496584032 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\recherchecategorie.h
+
+1496586239 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\menumanager.h
+
+1494770999 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\chartoint.c
+
+1496569644 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\clientmenu2.h
+
+1496586230 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\acquisitionproduits.h
+
+1496130606 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496132386 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+
+1496573141 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\startupmessage.h
+
+1496130590 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\fullscreenonoff.h
+
+1496132507 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\mainmenu.h
+
+1496154177 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\gestmenu1.h
+
+1496153560 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\caissiermenu1.h
+
+1496153461 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\clientmenu1.h
+
+1496095996 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496598312 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<unistd.h>
+
+1496584160 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\structproduit.h
+
+1496574904 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\rechercheproduit.h
+
+1496584032 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\recherchecategorie.h
+
+1496586239 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\menumanager.h
+
+1494770999 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\chartoint.c
+
+1496569644 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\clientmenu2.h
+
+1496586230 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\acquisitionproduits.h
+
+1496130606 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496132386 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+
+1496573141 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\startupmessage.h
+
+1496130590 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\fullscreenonoff.h
+
+1496132507 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\mainmenu.h
+
+1496154177 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\gestmenu1.h
+
+1496153560 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\caissiermenu1.h
+
+1496153461 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\clientmenu1.h
+
+1496095996 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496598312 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.2.10\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<unistd.h>
+
+1496584160 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\structproduit.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\recherchecategorie.h
+
+1496586239 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\menumanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\chartoint.c
+
+1496569644 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\clientmenu2.h
+
+1496586230 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\acquisitionproduits.h
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496132386 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\mainmenu.h
+
+1496154177 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\caissiermenu1.h
+
+1496153461 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\clientmenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496607875 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.10\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<unistd.h>
+
+1496584160 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\structproduit.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\recherchecategorie.h
+
+1496586239 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\menumanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\chartoint.c
+
+1496569644 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\clientmenu2.h
+
+1496586230 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\acquisitionproduits.h
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496656088 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\mainmenu.h
+
+1496154177 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\caissiermenu1.h
+
+1496153461 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\clientmenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\color.c
+	<windows.h>
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.2.11\color.h
+
+1496669404 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\structproduit.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\recherchecategorie.h
+
+1496586239 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\menumanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\chartoint.c
+
+1496569644 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\clientmenu2.h
+
+1496586230 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\acquisitionproduits.h
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\color.c
+	<windows.h>
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496656255 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\mainmenu.h
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\color.h
+
+1496154177 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\caissiermenu1.h
+
+1496153461 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\clientmenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.0\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496669443 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\structproduit.h
+
+1496574904 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\rechercheproduit.h
+
+1496584032 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\recherchecategorie.h
+
+1496586239 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\menumanager.h
+
+1494770999 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\chartoint.c
+
+1496569644 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\clientmenu2.h
+
+1496586230 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\acquisitionproduits.h
+
+1496655910 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\color.c
+	<windows.h>
+
+1496130606 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496656255 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\startupmessage.h
+
+1496130590 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\fullscreenonoff.h
+
+1496132507 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\mainmenu.h
+
+1496655840 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\color.h
+
+1496154177 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\gestmenu1.h
+
+1496153560 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\caissiermenu1.h
+
+1496153461 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\clientmenu1.h
+
+1496095996 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.1\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496669443 source:c:\users\loic\desktop\ishopassistant_v1.3.1\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\desktop\ishopassistant_v1.3.1\structproduit.h
+
+1496574904 c:\users\loic\desktop\ishopassistant_v1.3.1\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\ishopassistant_v1.3.1\recherchecategorie.h
+
+1496586239 source:c:\users\loic\desktop\ishopassistant_v1.3.1\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\loic\desktop\ishopassistant_v1.3.1\menumanager.h
+
+1494770999 source:c:\users\loic\desktop\ishopassistant_v1.3.1\chartoint.c
+
+1496569644 source:c:\users\loic\desktop\ishopassistant_v1.3.1\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\ishopassistant_v1.3.1\clientmenu2.h
+
+1496586230 source:c:\users\loic\desktop\ishopassistant_v1.3.1\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\loic\desktop\ishopassistant_v1.3.1\acquisitionproduits.h
+
+1496655910 source:c:\users\loic\desktop\ishopassistant_v1.3.1\color.c
+	<windows.h>
+
+1496130606 source:c:\users\loic\desktop\ishopassistant_v1.3.1\fullscreenonoff.c
+	<windows.h>
+
+1496586249 source:c:\users\loic\desktop\ishopassistant_v1.3.1\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496656255 source:c:\users\loic\desktop\ishopassistant_v1.3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\loic\desktop\ishopassistant_v1.3.1\startupmessage.h
+
+1496130590 c:\users\loic\desktop\ishopassistant_v1.3.1\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\ishopassistant_v1.3.1\mainmenu.h
+
+1496655840 c:\users\loic\desktop\ishopassistant_v1.3.1\color.h
+
+1496154177 source:c:\users\loic\desktop\ishopassistant_v1.3.1\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\desktop\ishopassistant_v1.3.1\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\ishopassistant_v1.3.1\caissiermenu1.h
+
+1496153461 c:\users\loic\desktop\ishopassistant_v1.3.1\clientmenu1.h
+
+1496095996 source:c:\users\loic\desktop\ishopassistant_v1.3.1\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:c:\users\loic\desktop\ishopassistant_v1.3.1\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\desktop\ishopassistant_v1.3.1\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:c:\users\loic\desktop\ishopassistant_v1.3.1\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496669443 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\structproduit.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\recherchecategorie.h
+
+1496586239 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\menumanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\chartoint.c
+
+1496569644 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\clientmenu2.h
+
+1496586230 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\acquisitionproduits.h
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\color.c
+	<windows.h>
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\fullscreenonoff.c
+	<windows.h>
+
+1496677134 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+
+1496656255 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\mainmenu.h
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\color.h
+
+1496154177 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\caissiermenu1.h
+
+1496153461 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\clientmenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496587782 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496677200 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\passwordmanager.h
+
+1496677219 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.1\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496669443 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\structproduit.h
+
+1496574904 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\rechercheproduit.h
+
+1496584032 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\recherchecategorie.h
+
+1496683636 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+
+1496096030 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\menumanager.h
+
+1494770999 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\chartoint.c
+
+1496569644 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"menuManager.h"
+
+1496569643 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\clientmenu2.h
+
+1496586230 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\acquisitionproduits.h
+
+1496655910 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\color.c
+	<windows.h>
+
+1496130606 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\fullscreenonoff.c
+	<windows.h>
+
+1496683281 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+
+1496677200 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\passwordmanager.h
+
+1496656255 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\startupmessage.h
+
+1496130590 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\fullscreenonoff.h
+
+1496132507 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\mainmenu.h
+
+1496655840 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\color.h
+
+1496154177 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\gestmenu1.h
+
+1496153560 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\caissiermenu1.h
+
+1496153461 d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\clientmenu1.h
+
+1496095996 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683539 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496587782 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:d:\drive\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.2beta\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1494770999 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\chartoint.c
+
+1496756217 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\clientmenu2.h
+
+1496096030 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\menumanager.h
+
+1496655910 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\color.c
+	<windows.h>
+
+1496130606 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\fullscreenonoff.c
+	<windows.h>
+
+1496656255 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\startupmessage.h
+
+1496130590 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\fullscreenonoff.h
+
+1496132507 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\mainmenu.h
+
+1496655840 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\color.h
+
+1496154177 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\gestmenu1.h
+
+1496153560 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\caissiermenu1.h
+
+1496153461 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\clientmenu1.h
+
+1496095996 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496587782 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496574784 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\acquisitionproduits.h
+
+1496573354 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\structproduit.h
+
+1496598599 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496734404 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496574904 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\rechercheproduit.h
+
+1496584032 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\recherchecategorie.h
+
+1496734352 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496734491 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+
+1496677200 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\passwordmanager.h
+
+1496734548 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496755636 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+
+1496735352 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\structclient.h
+
+1496756062 source:c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496755642 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\acquisitionclient.h
+
+1496755644 c:\users\naworms\desktop\codeblock\ishopassistant_v1.3.2\connexionclient.h
+
+1496734404 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\structproduit.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\recherchecategorie.h
+
+1496734548 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\menumanager.h
+
+1496574784 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\acquisitionproduits.h
+
+1496677200 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\passwordmanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\chartoint.c
+
+1496756217 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\clientmenu2.h
+
+1496755642 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\acquisitionclient.h
+
+1496734352 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496656255 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\mainmenu.h
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\color.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496608424 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496755636 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+
+1496735352 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\structclient.h
+
+1496755644 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\connexionclient.h
+
+1496759898 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\ftoa.h
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\color.c
+	<windows.h>
+
+1496756339 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496759870 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\ftoa.c
+	<stdio.h>
+	<math.h>
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\fullscreenonoff.c
+	<windows.h>
+
+1496734491 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+
+1496154177 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+	"clientMenu1.h"
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\caissiermenu1.h
+
+1496153461 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\clientmenu1.h
+
+1496683682 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496587782 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.3\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496734404 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\naworms\desktop\ishopassistant_v1.3.4\structproduit.h
+
+1496574904 c:\users\naworms\desktop\ishopassistant_v1.3.4\rechercheproduit.h
+
+1496584032 c:\users\naworms\desktop\ishopassistant_v1.3.4\recherchecategorie.h
+
+1496759898 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\naworms\desktop\ishopassistant_v1.3.4\ftoa.h
+
+1496734548 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496096030 c:\users\naworms\desktop\ishopassistant_v1.3.4\menumanager.h
+
+1496574784 c:\users\naworms\desktop\ishopassistant_v1.3.4\acquisitionproduits.h
+
+1496677200 c:\users\naworms\desktop\ishopassistant_v1.3.4\passwordmanager.h
+
+1494770999 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\chartoint.c
+
+1496773709 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\color.c
+	<windows.h>
+
+1496759870 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\ftoa.c
+	<stdio.h>
+	<math.h>
+
+1496130606 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\fullscreenonoff.c
+	<windows.h>
+
+1496734491 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+
+1496656255 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\naworms\desktop\ishopassistant_v1.3.4\startupmessage.h
+
+1496130590 c:\users\naworms\desktop\ishopassistant_v1.3.4\fullscreenonoff.h
+
+1496132507 c:\users\naworms\desktop\ishopassistant_v1.3.4\mainmenu.h
+
+1496655840 c:\users\naworms\desktop\ishopassistant_v1.3.4\color.h
+
+1496773501 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496153524 c:\users\naworms\desktop\ishopassistant_v1.3.4\gestmenu1.h
+
+1496153560 c:\users\naworms\desktop\ishopassistant_v1.3.4\caissiermenu1.h
+
+1496773425 c:\users\naworms\desktop\ishopassistant_v1.3.4\clientmenu1.h
+
+1496095996 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496587782 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496772024 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+
+1496735352 c:\users\naworms\desktop\ishopassistant_v1.3.4\structclient.h
+
+1496772001 c:\users\naworms\desktop\ishopassistant_v1.3.4\connexionclient.h
+
+1496773721 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\naworms\desktop\ishopassistant_v1.3.4\clientmenu2.h
+
+1496772026 c:\users\naworms\desktop\ishopassistant_v1.3.4\acquisitionclient.h
+
+1496773825 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496773848 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496772758 c:\users\naworms\desktop\ishopassistant_v1.3.4\clientmenu0.h
+
+1496864593 source:c:\users\naworms\desktop\ishopassistant_v1.3.4\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496864687 source:c:\users\loic\desktop\ishopassistant_v1.3.5\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496735352 c:\users\loic\desktop\ishopassistant_v1.3.5\structclient.h
+
+1496772001 c:\users\loic\desktop\ishopassistant_v1.3.5\connexionclient.h
+
+1496864446 c:\users\loic\desktop\ishopassistant_v1.3.5\inscriptionclient.h
+
+1496907217 source:c:\users\loic\desktop\ishopassistant_v1.3.5\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructProduit.h"
+	"RechercheProduit.h"
+	"RechercheCategorie.h"
+
+1496573354 c:\users\loic\desktop\ishopassistant_v1.3.5\structproduit.h
+
+1496574904 c:\users\loic\desktop\ishopassistant_v1.3.5\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\ishopassistant_v1.3.5\recherchecategorie.h
+
+1496759898 source:c:\users\loic\desktop\ishopassistant_v1.3.5\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\loic\desktop\ishopassistant_v1.3.5\ftoa.h
+
+1496905901 source:c:\users\loic\desktop\ishopassistant_v1.3.5\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496096030 c:\users\loic\desktop\ishopassistant_v1.3.5\menumanager.h
+
+1496905846 c:\users\loic\desktop\ishopassistant_v1.3.5\acquisitionproduits.h
+
+1496677200 c:\users\loic\desktop\ishopassistant_v1.3.5\passwordmanager.h
+
+1494770999 source:c:\users\loic\desktop\ishopassistant_v1.3.5\chartoint.c
+
+1496864711 source:c:\users\loic\desktop\ishopassistant_v1.3.5\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\loic\desktop\ishopassistant_v1.3.5\clientmenu1.h
+
+1496772026 c:\users\loic\desktop\ishopassistant_v1.3.5\acquisitionclient.h
+
+1496773721 source:c:\users\loic\desktop\ishopassistant_v1.3.5\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\ishopassistant_v1.3.5\clientmenu2.h
+
+1496905911 source:c:\users\loic\desktop\ishopassistant_v1.3.5\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\loic\desktop\ishopassistant_v1.3.5\color.c
+	<windows.h>
+
+1496773825 source:c:\users\loic\desktop\ishopassistant_v1.3.5\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496759870 source:c:\users\loic\desktop\ishopassistant_v1.3.5\ftoa.c
+	<stdio.h>
+	<math.h>
+
+1496130606 source:c:\users\loic\desktop\ishopassistant_v1.3.5\fullscreenonoff.c
+	<windows.h>
+
+1496864593 source:c:\users\loic\desktop\ishopassistant_v1.3.5\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496656255 source:c:\users\loic\desktop\ishopassistant_v1.3.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+
+1496573141 c:\users\loic\desktop\ishopassistant_v1.3.5\startupmessage.h
+
+1496130590 c:\users\loic\desktop\ishopassistant_v1.3.5\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\ishopassistant_v1.3.5\mainmenu.h
+
+1496655840 c:\users\loic\desktop\ishopassistant_v1.3.5\color.h
+
+1496773501 source:c:\users\loic\desktop\ishopassistant_v1.3.5\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\loic\desktop\ishopassistant_v1.3.5\clientmenu0.h
+
+1496153524 c:\users\loic\desktop\ishopassistant_v1.3.5\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\ishopassistant_v1.3.5\caissiermenu1.h
+
+1496095996 source:c:\users\loic\desktop\ishopassistant_v1.3.5\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\loic\desktop\ishopassistant_v1.3.5\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496587782 source:c:\users\loic\desktop\ishopassistant_v1.3.5\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496598599 source:c:\users\loic\desktop\ishopassistant_v1.3.5\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496608424 source:c:\users\loic\desktop\ishopassistant_v1.3.5\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496912152 source:c:\users\loic\desktop\ishopassistant_v1.3.5\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+
+1496907916 source:c:\users\loic\desktop\ishopassistant_v1.3.5\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+
+1496907889 c:\users\loic\desktop\ishopassistant_v1.3.5\alimstock.h
+	"StructProduit.h"
+
+1496950488 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496950607 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\structclient.h
+
+1496772001 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\connexionclient.h
+
+1496864446 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\inscriptionclient.h
+
+1496966027 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+
+1496950604 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\structproduit.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\rechercheproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\recherchecategorie.h
+
+1496969474 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496905846 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\acquisitionproduits.h
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\menumanager.h
+
+1496950696 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\ftoa.h
+
+1496905901 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496677200 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\passwordmanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\chartoint.c
+
+1496864711 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\clientmenu1.h
+
+1496772026 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\acquisitionclient.h
+
+1496773721 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\clientmenu2.h
+
+1496905911 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\color.c
+	<windows.h>
+
+1496950678 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496948991 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\fullscreenonoff.c
+	<windows.h>
+
+1496969614 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+
+1496966006 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\alimstock.h
+	"StructProduit.h"
+
+1496950663 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496968008 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\mainmenu.h
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\color.h
+
+1496773501 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\clientmenu0.h
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\caissiermenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496950479 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1496950627 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496940199 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496757842 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\bankmanager.h
+
+1496950153 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\valmax.h
+
+1496965316 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\table6editor.h
+
+1496968971 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.7\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496972686 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496972067 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\structclient.h
+
+1496772001 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\connexionclient.h
+
+1496864446 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\inscriptionclient.h
+
+1496972899 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+	"Facturation.h"
+
+1496966006 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\alimstock.h
+	"StructProduit.h"
+
+1496972061 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\structproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\recherchecategorie.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\rechercheproduit.h
+
+1496969474 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496905846 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\acquisitionproduits.h
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\menumanager.h
+
+1496757842 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\bankmanager.h
+
+1496965316 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\table6editor.h
+
+1496950696 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\ftoa.h
+
+1496905901 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496677200 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\passwordmanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\chartoint.c
+
+1496864711 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\clientmenu1.h
+
+1496772026 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\acquisitionclient.h
+
+1496773721 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\clientmenu2.h
+
+1496972837 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\color.c
+	<windows.h>
+
+1496972683 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496948991 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\fullscreenonoff.c
+	<windows.h>
+
+1496969696 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+
+1496864593 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496968008 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\mainmenu.h
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\color.h
+
+1496773501 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\clientmenu0.h
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\caissiermenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496950479 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1496950627 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496940199 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496968971 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496972685 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\ajoutpanier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"StructPanier.h"
+	"menuManager.h"
+
+1496972767 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\structpanier.h
+
+1496908269 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\facturation.h
+
+1496972938 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+	"AjoutPanier.h"
+
+1496908296 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.3.8\ajoutpanier.h
+
+1496972686 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496972067 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\structclient.h
+
+1496772001 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\connexionclient.h
+
+1496864446 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\inscriptionclient.h
+
+1496972899 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+	"Facturation.h"
+
+1496966006 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\alimstock.h
+	"StructProduit.h"
+
+1496972061 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\structproduit.h
+
+1496584032 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\recherchecategorie.h
+
+1496574904 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\rechercheproduit.h
+
+1496908269 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\facturation.h
+
+1496972685 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\ajoutpanier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"StructPanier.h"
+	"menuManager.h"
+
+1496905846 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\acquisitionproduits.h
+
+1496972767 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\structpanier.h
+
+1496096030 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\menumanager.h
+
+1496969474 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496757842 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\bankmanager.h
+
+1496965316 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\table6editor.h
+
+1496950696 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\ftoa.h
+
+1496905901 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496677200 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\passwordmanager.h
+
+1494770999 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\chartoint.c
+
+1496864711 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\clientmenu1.h
+
+1496772026 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\acquisitionclient.h
+
+1496773721 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\clientmenu2.h
+
+1496972837 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\color.c
+	<windows.h>
+
+1496972683 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496972938 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+	"AjoutPanier.h"
+
+1496908296 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\ajoutpanier.h
+
+1496948991 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\fullscreenonoff.c
+	<windows.h>
+
+1496969696 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+
+1496864593 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496968008 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573141 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\startupmessage.h
+
+1496130590 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\fullscreenonoff.h
+
+1496132507 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\mainmenu.h
+
+1496655840 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\color.h
+
+1496773501 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\clientmenu0.h
+
+1496153524 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\gestmenu1.h
+
+1496153560 c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\caissiermenu1.h
+
+1496095996 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496950479 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1496950627 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496940199 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496968971 source:c:\users\loic\google drive\bibliothèques\documents\cours\utbm\2_tc2\ifc\projet\projet_partage\3.1_programme_9juin\ishopassistant_v1.3.9\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496972686 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496972067 c:\users\naworms\desktop\ishopassistant_v1.3.9\structclient.h
+
+1496772001 c:\users\naworms\desktop\ishopassistant_v1.3.9\connexionclient.h
+
+1496864446 c:\users\naworms\desktop\ishopassistant_v1.3.9\inscriptionclient.h
+
+1496972899 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+	"Facturation.h"
+
+1496966006 c:\users\naworms\desktop\ishopassistant_v1.3.9\alimstock.h
+	"StructProduit.h"
+
+1496972061 c:\users\naworms\desktop\ishopassistant_v1.3.9\structproduit.h
+
+1496584032 c:\users\naworms\desktop\ishopassistant_v1.3.9\recherchecategorie.h
+
+1496574904 c:\users\naworms\desktop\ishopassistant_v1.3.9\rechercheproduit.h
+
+1496908269 c:\users\naworms\desktop\ishopassistant_v1.3.9\facturation.h
+
+1496969474 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496905846 c:\users\naworms\desktop\ishopassistant_v1.3.9\acquisitionproduits.h
+
+1496096030 c:\users\naworms\desktop\ishopassistant_v1.3.9\menumanager.h
+
+1496757842 c:\users\naworms\desktop\ishopassistant_v1.3.9\bankmanager.h
+
+1496965316 c:\users\naworms\desktop\ishopassistant_v1.3.9\table6editor.h
+
+1496950696 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\naworms\desktop\ishopassistant_v1.3.9\ftoa.h
+
+1496905901 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496677200 c:\users\naworms\desktop\ishopassistant_v1.3.9\passwordmanager.h
+
+1494770999 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\chartoint.c
+
+1496864711 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\naworms\desktop\ishopassistant_v1.3.9\clientmenu1.h
+
+1496772026 c:\users\naworms\desktop\ishopassistant_v1.3.9\acquisitionclient.h
+
+1496773721 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\naworms\desktop\ishopassistant_v1.3.9\clientmenu2.h
+
+1496973725 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\color.c
+	<windows.h>
+
+1496972683 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496972938 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+	"AjoutPanier.h"
+
+1496908296 c:\users\naworms\desktop\ishopassistant_v1.3.9\ajoutpanier.h
+
+1496948991 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\fullscreenonoff.c
+	<windows.h>
+
+1496969696 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+
+1496864593 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496968008 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573141 c:\users\naworms\desktop\ishopassistant_v1.3.9\startupmessage.h
+
+1496130590 c:\users\naworms\desktop\ishopassistant_v1.3.9\fullscreenonoff.h
+
+1496132507 c:\users\naworms\desktop\ishopassistant_v1.3.9\mainmenu.h
+
+1496655840 c:\users\naworms\desktop\ishopassistant_v1.3.9\color.h
+
+1496773501 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\naworms\desktop\ishopassistant_v1.3.9\clientmenu0.h
+
+1496153524 c:\users\naworms\desktop\ishopassistant_v1.3.9\gestmenu1.h
+
+1496153560 c:\users\naworms\desktop\ishopassistant_v1.3.9\caissiermenu1.h
+
+1496095996 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496950479 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1496950627 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496940199 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496968971 source:c:\users\naworms\desktop\ishopassistant_v1.3.9\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496972686 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496972067 c:\users\naworms\desktop\ishopassistant_v1.4.0\structclient.h
+
+1496772001 c:\users\naworms\desktop\ishopassistant_v1.4.0\connexionclient.h
+
+1496864446 c:\users\naworms\desktop\ishopassistant_v1.4.0\inscriptionclient.h
+
+1496972899 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+	"Facturation.h"
+
+1496966006 c:\users\naworms\desktop\ishopassistant_v1.4.0\alimstock.h
+	"StructProduit.h"
+
+1496972061 c:\users\naworms\desktop\ishopassistant_v1.4.0\structproduit.h
+
+1496584032 c:\users\naworms\desktop\ishopassistant_v1.4.0\recherchecategorie.h
+
+1496574904 c:\users\naworms\desktop\ishopassistant_v1.4.0\rechercheproduit.h
+
+1496908269 c:\users\naworms\desktop\ishopassistant_v1.4.0\facturation.h
+
+1496969474 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496905846 c:\users\naworms\desktop\ishopassistant_v1.4.0\acquisitionproduits.h
+
+1496096030 c:\users\naworms\desktop\ishopassistant_v1.4.0\menumanager.h
+
+1496757842 c:\users\naworms\desktop\ishopassistant_v1.4.0\bankmanager.h
+
+1496965316 c:\users\naworms\desktop\ishopassistant_v1.4.0\table6editor.h
+
+1496950696 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\naworms\desktop\ishopassistant_v1.4.0\ftoa.h
+
+1496905901 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496677200 c:\users\naworms\desktop\ishopassistant_v1.4.0\passwordmanager.h
+
+1494770999 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\chartoint.c
+
+1496864711 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\naworms\desktop\ishopassistant_v1.4.0\clientmenu1.h
+
+1496772026 c:\users\naworms\desktop\ishopassistant_v1.4.0\acquisitionclient.h
+
+1496773721 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\naworms\desktop\ishopassistant_v1.4.0\clientmenu2.h
+
+1496973725 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\color.c
+	<windows.h>
+
+1496972683 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496972938 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+	"AjoutPanier.h"
+
+1496908296 c:\users\naworms\desktop\ishopassistant_v1.4.0\ajoutpanier.h
+
+1496948991 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\fullscreenonoff.c
+	<windows.h>
+
+1496969696 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+
+1496864593 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496968008 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573141 c:\users\naworms\desktop\ishopassistant_v1.4.0\startupmessage.h
+
+1496130590 c:\users\naworms\desktop\ishopassistant_v1.4.0\fullscreenonoff.h
+
+1496132507 c:\users\naworms\desktop\ishopassistant_v1.4.0\mainmenu.h
+
+1496655840 c:\users\naworms\desktop\ishopassistant_v1.4.0\color.h
+
+1496773501 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\naworms\desktop\ishopassistant_v1.4.0\clientmenu0.h
+
+1496153524 c:\users\naworms\desktop\ishopassistant_v1.4.0\gestmenu1.h
+
+1496153560 c:\users\naworms\desktop\ishopassistant_v1.4.0\caissiermenu1.h
+
+1496095996 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496950479 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1496950627 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496940199 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496968971 source:c:\users\naworms\desktop\ishopassistant_v1.4.0\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496972686 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496972067 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\structclient.h
+
+1496772001 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\connexionclient.h
+
+1496864446 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\inscriptionclient.h
+
+1496972899 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+	"Facturation.h"
+
+1496966006 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\alimstock.h
+	"StructProduit.h"
+
+1496972061 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\structproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\recherchecategorie.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\rechercheproduit.h
+
+1496908269 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\facturation.h
+
+1497001235 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496905846 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\acquisitionproduits.h
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\menumanager.h
+
+1496757842 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\bankmanager.h
+
+1496965316 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\table6editor.h
+
+1496950696 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\ftoa.h
+
+1497001816 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496677200 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\passwordmanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\chartoint.c
+
+1496864711 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\clientmenu1.h
+
+1496772026 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\acquisitionclient.h
+
+1497001849 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\clientmenu2.h
+
+1496973725 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\color.c
+	<windows.h>
+
+1496972683 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496972938 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+	"AjoutPanier.h"
+
+1496908296 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\ajoutpanier.h
+
+1496948991 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\fullscreenonoff.c
+	<windows.h>
+
+1497001718 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+	"printBank.h"
+
+1496864593 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496968008 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\mainmenu.h
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\color.h
+
+1496773501 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\clientmenu0.h
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\caissiermenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496950479 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1497002442 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496940199 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496968971 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497001674 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\ajoutpanier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"StructPanier.h"
+	"menuManager.h"
+	"bankManager.h"
+
+1496972767 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\structpanier.h
+
+1497001341 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\printbank.c
+	<stdio.h>
+	<stdlib.h>
+
+1497001128 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.1\printbank.h
+
+1496972686 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496972067 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\structclient.h
+
+1496772001 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\connexionclient.h
+
+1496864446 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\inscriptionclient.h
+
+1496972899 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+	"Facturation.h"
+
+1496966006 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\alimstock.h
+	"StructProduit.h"
+
+1496972061 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\structproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\recherchecategorie.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\rechercheproduit.h
+
+1496908269 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\facturation.h
+
+1497001674 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\ajoutpanier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"StructPanier.h"
+	"menuManager.h"
+	"bankManager.h"
+
+1496905846 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\acquisitionproduits.h
+
+1496972767 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\structpanier.h
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\menumanager.h
+
+1496757842 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\bankmanager.h
+
+1497001235 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496965316 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\table6editor.h
+
+1496950696 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\ftoa.h
+
+1497001816 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1496677200 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\passwordmanager.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\chartoint.c
+
+1496864711 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\clientmenu1.h
+
+1496772026 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\acquisitionclient.h
+
+1497001849 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\clientmenu2.h
+
+1496973725 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\color.c
+	<windows.h>
+
+1496972683 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496972938 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+	"AjoutPanier.h"
+
+1496908296 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\ajoutpanier.h
+
+1496948991 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\fullscreenonoff.c
+	<windows.h>
+
+1497001718 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+	"printBank.h"
+
+1497001128 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\printbank.h
+
+1496864593 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1496968008 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\mainmenu.h
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\color.h
+
+1496773501 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\clientmenu0.h
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\caissiermenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497001341 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\printbank.c
+	<stdio.h>
+	<stdlib.h>
+
+1496950479 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1497002442 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496940199 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496968971 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.2\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497005857 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496972067 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\structclient.h
+
+1496772001 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\connexionclient.h
+
+1496864446 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\inscriptionclient.h
+
+1497006016 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+	"Facturation.h"
+
+1496966006 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\alimstock.h
+	"StructProduit.h"
+
+1496972061 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\structproduit.h
+
+1496584032 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\recherchecategorie.h
+
+1496574904 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\rechercheproduit.h
+
+1496908269 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\facturation.h
+
+1497004771 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\ajoutpanier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"StructPanier.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496905846 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\acquisitionproduits.h
+
+1496972767 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\structpanier.h
+
+1496096030 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\menumanager.h
+
+1496757842 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\bankmanager.h
+
+1497004050 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496965316 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\table6editor.h
+
+1496950696 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\ftoa.h
+
+1494770999 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\chartoint.c
+
+1497003292 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773425 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\clientmenu1.h
+
+1497003262 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\acquisitionclient.h
+
+1497003803 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569643 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\clientmenu2.h
+
+1496973725 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\color.c
+	<windows.h>
+
+1497006156 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496972938 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+	"AjoutPanier.h"
+
+1496908296 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\ajoutpanier.h
+
+1496948991 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\fullscreenonoff.c
+	<windows.h>
+
+1497001718 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+	"printBank.h"
+
+1496677200 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\passwordmanager.h
+
+1497001128 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\printbank.h
+
+1497005659 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1496968008 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573141 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\startupmessage.h
+
+1496130590 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\fullscreenonoff.h
+
+1496132507 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\mainmenu.h
+
+1496655840 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\color.h
+
+1496773501 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\clientmenu0.h
+
+1496153524 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\gestmenu1.h
+
+1496153560 c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\caissiermenu1.h
+
+1496095996 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497001341 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\printbank.c
+	<stdio.h>
+	<stdlib.h>
+
+1496950479 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1497006254 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496940199 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+
+1496968971 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497003219 source:c:\users\loic\desktop\workspacecodeblock\ishopassistant_v1.4.3\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionClient.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1497005858 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\acquisitionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"ConnexionClient.h"
+	"InscriptionClient.h"
+
+1496972068 e:\utbm\bertrand_perrin\ishopassistant_v2.0\structclient.h
+
+1496772002 e:\utbm\bertrand_perrin\ishopassistant_v2.0\connexionclient.h
+
+1496864446 e:\utbm\bertrand_perrin\ishopassistant_v2.0\inscriptionclient.h
+
+1497006018 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\acquisitionproduits.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"alimStock.h"
+	"RechercheCategorie.h"
+	"RechercheProduit.h"
+	"Facturation.h"
+
+1496966006 e:\utbm\bertrand_perrin\ishopassistant_v2.0\alimstock.h
+	"StructProduit.h"
+
+1496972062 e:\utbm\bertrand_perrin\ishopassistant_v2.0\structproduit.h
+
+1496584032 e:\utbm\bertrand_perrin\ishopassistant_v2.0\recherchecategorie.h
+
+1496574904 e:\utbm\bertrand_perrin\ishopassistant_v2.0\rechercheproduit.h
+
+1496908270 e:\utbm\bertrand_perrin\ishopassistant_v2.0\facturation.h
+
+1497004772 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\ajoutpanier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"StructPanier.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496905846 e:\utbm\bertrand_perrin\ishopassistant_v2.0\acquisitionproduits.h
+
+1496972768 e:\utbm\bertrand_perrin\ishopassistant_v2.0\structpanier.h
+
+1496096030 e:\utbm\bertrand_perrin\ishopassistant_v2.0\menumanager.h
+
+1496757842 e:\utbm\bertrand_perrin\ishopassistant_v2.0\bankmanager.h
+
+1496965316 e:\utbm\bertrand_perrin\ishopassistant_v2.0\table6editor.h
+
+1497004052 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\alimstock.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"StructProduit.h"
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"bankManager.h"
+	"table6Editor.h"
+
+1496950696 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\bankmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ftoa.h"
+
+1496738568 e:\utbm\bertrand_perrin\ishopassistant_v2.0\ftoa.h
+
+1497003220 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\caissiermenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"AcquisitionClient.h"
+	"AcquisitionProduits.h"
+	"passwordManager.h"
+
+1497003264 e:\utbm\bertrand_perrin\ishopassistant_v2.0\acquisitionclient.h
+
+1496677200 e:\utbm\bertrand_perrin\ishopassistant_v2.0\passwordmanager.h
+
+1494771000 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\chartoint.c
+
+1497003294 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\clientmenu0.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu1.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496773426 e:\utbm\bertrand_perrin\ishopassistant_v2.0\clientmenu1.h
+
+1497003804 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\clientmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"clientMenu2.h"
+	"AcquisitionClient.h"
+	"menuManager.h"
+
+1496569644 e:\utbm\bertrand_perrin\ishopassistant_v2.0\clientmenu2.h
+
+1496973726 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\clientmenu2.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+
+1496655910 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\color.c
+	<windows.h>
+
+1497006158 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\connexionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"StructClient.h"
+	"AcquisitionClient.h"
+
+1496972938 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\facturation.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+	"menuManager.h"
+	"AjoutPanier.h"
+
+1496908296 e:\utbm\bertrand_perrin\ishopassistant_v2.0\ajoutpanier.h
+
+1496948992 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\ftoa.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<conio.h>
+
+1496130606 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\fullscreenonoff.c
+	<windows.h>
+
+1497001720 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\gestmenu1.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"menuManager.h"
+	"passwordManager.h"
+	"AcquisitionProduits.h"
+	"alimStock.h"
+	"printBank.h"
+
+1497001130 e:\utbm\bertrand_perrin\ishopassistant_v2.0\printbank.h
+
+1497005660 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\inscriptionclient.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1496968008 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"startupMessage.h"
+	"fullScreenOnOff.h"
+	"mainMenu.h"
+	"color.h"
+	"table6Editor.h"
+
+1496573142 e:\utbm\bertrand_perrin\ishopassistant_v2.0\startupmessage.h
+
+1496130590 e:\utbm\bertrand_perrin\ishopassistant_v2.0\fullscreenonoff.h
+
+1496132508 e:\utbm\bertrand_perrin\ishopassistant_v2.0\mainmenu.h
+
+1496655840 e:\utbm\bertrand_perrin\ishopassistant_v2.0\color.h
+
+1496773502 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\mainmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menuManager.h"
+	"clientMenu0.h"
+	"gestMenu1.h"
+	"caissierMenu1.h"
+
+1496772758 e:\utbm\bertrand_perrin\ishopassistant_v2.0\clientmenu0.h
+
+1496153524 e:\utbm\bertrand_perrin\ishopassistant_v2.0\gestmenu1.h
+
+1496153560 e:\utbm\bertrand_perrin\ishopassistant_v2.0\caissiermenu1.h
+
+1496095996 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\menumanager.c
+	<stdio.h>
+	<stdlib.h>
+
+1496683682 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\passwordmanager.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497001342 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\printbank.c
+	<stdio.h>
+	<stdlib.h>
+
+1496950480 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\recherchecategorie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"AcquisitionProduits.h"
+	"menuManager.h"
+	"StructProduit.h"
+
+1497006256 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\rechercheproduit.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"AcquisitionProduits.h"
+	"StructProduit.h"
+
+1496968972 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\table6editor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1497006556 source:e:\utbm\bertrand_perrin\ishopassistant_v2.0\startupmessage.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+

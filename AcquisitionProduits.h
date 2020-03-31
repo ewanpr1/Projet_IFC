@@ -1,0 +1,1 @@
+void AcquisitionProduits(int);

@@ -1,0 +1,1 @@
+void RechercheProduit(int, Produit *);

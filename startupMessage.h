@@ -1,0 +1,1 @@
+void startupMessage(void);
